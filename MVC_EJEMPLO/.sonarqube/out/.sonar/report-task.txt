@@ -1,0 +1,6 @@
+projectKey=calidad-lucia
+serverUrl=https://sonar-test.bit2bittest.com
+serverVersion=9.4.0.54424
+dashboardUrl=https://sonar-test.bit2bittest.com/dashboard?id=calidad-lucia
+ceTaskId=AYRC42O7VEt1cRoIm-up
+ceTaskUrl=https://sonar-test.bit2bittest.com/api/ce/task?id=AYRC42O7VEt1cRoIm-up

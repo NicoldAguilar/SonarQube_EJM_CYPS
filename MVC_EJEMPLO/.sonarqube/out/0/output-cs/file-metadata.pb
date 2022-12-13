@@ -1,0 +1,15 @@
+A
+8D:\MVC_EJEMPLO\MVC_EJEMPLO\Controllers\HomeController.csutf-8<
+3D:\MVC_EJEMPLO\MVC_EJEMPLO\Models\ErrorViewModel.csutf-8.
+%D:\MVC_EJEMPLO\MVC_EJEMPLO\Program.csutf-8T
+ID:\MVC_EJEMPLO\MVC_EJEMPLO\obj\Debug\net6.0\MVC_EJEMPLO.GlobalUsings.g.csutf-8e
+ZD:\MVC_EJEMPLO\MVC_EJEMPLO\obj\Debug\net6.0\.NETCoreApp,Version=v6.0.AssemblyAttributes.csutf-8R
+GD:\MVC_EJEMPLO\MVC_EJEMPLO\obj\Debug\net6.0\MVC_EJEMPLO.AssemblyInfo.csutf-8W
+LD:\MVC_EJEMPLO\MVC_EJEMPLO\obj\Debug\net6.0\MVC_EJEMPLO.RazorAssemblyInfo.csutf-8
+ƒMicrosoft.NET.Sdk.Razor.SourceGenerators\Microsoft.NET.Sdk.Razor.SourceGenerators.RazorSourceGenerator\Views_Home_Index_cshtml.g.csutf-8‘
+…Microsoft.NET.Sdk.Razor.SourceGenerators\Microsoft.NET.Sdk.Razor.SourceGenerators.RazorSourceGenerator\Views_Home_Privacy_cshtml.g.csutf-8‘
+…Microsoft.NET.Sdk.Razor.SourceGenerators\Microsoft.NET.Sdk.Razor.SourceGenerators.RazorSourceGenerator\Views_Shared_Error_cshtml.g.csutf-8¥
+™Microsoft.NET.Sdk.Razor.SourceGenerators\Microsoft.NET.Sdk.Razor.SourceGenerators.RazorSourceGenerator\Views_Shared__ValidationScriptsPartial_cshtml.g.csutf-8‘
+…Microsoft.NET.Sdk.Razor.SourceGenerators\Microsoft.NET.Sdk.Razor.SourceGenerators.RazorSourceGenerator\Views__ViewImports_cshtml.g.csutf-8
+ƒMicrosoft.NET.Sdk.Razor.SourceGenerators\Microsoft.NET.Sdk.Razor.SourceGenerators.RazorSourceGenerator\Views__ViewStart_cshtml.g.csutf-8“
+‡Microsoft.NET.Sdk.Razor.SourceGenerators\Microsoft.NET.Sdk.Razor.SourceGenerators.RazorSourceGenerator\Views_Shared__Layout_cshtml.g.csutf-8

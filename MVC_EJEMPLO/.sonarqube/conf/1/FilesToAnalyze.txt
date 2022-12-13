@@ -1,0 +1,13 @@
+﻿D:\MVC_EJEMPLO\MVC_EJEMPLO_TESTER\Controllers\HomeControllerTest.cs
+D:\MVC_EJEMPLO\MVC_EJEMPLO_TESTER\UnitTest1.cs
+C:\Users\Aguilar\.nuget\packages\microsoft.net.test.sdk\16.11.0\build\netcoreapp2.1\Microsoft.NET.Test.Sdk.Program.cs
+C:\Users\Aguilar\.nuget\packages\microsoft.testplatform.testhost\16.11.0\build\netcoreapp2.1\x64\testhost.exe
+C:\Users\Aguilar\.nuget\packages\microsoft.testplatform.testhost\16.11.0\build\netcoreapp2.1\x64\testhost.dll
+C:\Users\Aguilar\.nuget\packages\microsoft.testplatform.testhost\16.11.0\build\netcoreapp2.1\x64\Microsoft.TestPlatform.PlatformAbstractions.dll
+C:\Users\Aguilar\.nuget\packages\nunit3testadapter\4.0.0\build\netcoreapp2.1\NUnit3.TestAdapter.dll
+C:\Users\Aguilar\.nuget\packages\nunit3testadapter\4.0.0\build\netcoreapp2.1\NUnit3.TestAdapter.pdb
+C:\Users\Aguilar\.nuget\packages\nunit3testadapter\4.0.0\build\netcoreapp2.1\nunit.engine.dll
+C:\Users\Aguilar\.nuget\packages\nunit3testadapter\4.0.0\build\netcoreapp2.1\nunit.engine.api.dll
+C:\Users\Aguilar\.nuget\packages\nunit3testadapter\4.0.0\build\netcoreapp2.1\nunit.engine.core.dll
+C:\Users\Aguilar\.nuget\packages\nunit3testadapter\4.0.0\build\netcoreapp2.1\testcentric.engine.metadata.dll
+D:\MVC_EJEMPLO\MVC_EJEMPLO_TESTER\TestResults\3ef5578d-1b49-4d97-b6ab-6af35b6750fc\Aguilar_N1CKY1998_2022-11-04.08_18_41.coverage
